@@ -12,6 +12,16 @@
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/llthw)
 + [代码仓库](http://github.com/wizardforcel/llthw-zh)
 
+## 下载
+
+### NPM
+
+```
+npm install -g llthw-zh
+llthw-zh <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
 ## 赞助我
 
 ![](img/qr_alipay.png)
